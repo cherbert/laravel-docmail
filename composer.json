@@ -1,5 +1,5 @@
 {
-  "name": "cherbert/laravel-docmail",
+  "name": "hpolthof/laravel-docmail",
   "description": "An laravel implementation for Docmail.",
   "keywords": [
     "laravel", "docmail"
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "cherbert\\Docmail\\": "src"
+      "Hpolthof\\Docmail\\": "src"
     }
   },
   "minimum-stability": "stable",
