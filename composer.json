@@ -1,10 +1,10 @@
 {
-  "name": "hpolthof/laravel-docmail",
+  "name": "cherbert/laravel-docmail",
   "description": "An laravel implementation for Docmail.",
   "keywords": [
     "laravel", "docmail"
   ],
-  "homepage": "https://github.com/hpolthof/laravel-docmail",
+  "homepage": "https://github.com/cherbert/laravel-docmail",
   "license": "MIT",
   "authors": [
     {
@@ -16,7 +16,7 @@
   ],
   "require": {
     "php" : ">=7.3",
-    "illuminate/support": "~6.*",
+    "illuminate/support": "6.0.*",
     "fergusean/nusoap": "0.9.5"
   },
   "autoload": {
