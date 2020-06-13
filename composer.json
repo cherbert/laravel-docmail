@@ -15,12 +15,11 @@
     }
   ],
   "require": {
-    "php" : ">=7.3",
-    "illuminate/support": "6.0.*"
+    "php" : ">=7.3"
   },
   "autoload": {
     "psr-4": {
-      "Hpolthof\\Docmail\\": "src"
+      "cherbert\\Docmail\\": "src"
     }
   },
   "minimum-stability": "stable",
