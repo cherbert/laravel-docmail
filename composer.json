@@ -15,8 +15,8 @@
     }
   ],
   "require": {
-    "php" : ">=5.4.0",
-    "illuminate/support": "~5.1",
+    "php" : ">=7.3",
+    "illuminate/support": "~6.*",
     "fergusean/nusoap": "0.9.5"
   },
   "autoload": {
